@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-03T12:16:04" hostname="LAPTOP-5GV65ACB" time="0.033">
+  <properties/>
+  <testcase name="EveryStatement()" classname="SILab2Test" time="0.03"/>
+  <testcase name="EveryBranch()" classname="SILab2Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
